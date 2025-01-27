@@ -4,3 +4,6 @@ this is from feature-1
 this is from feature-2
 this is from f-1
 this is from new f-2
+this is commit-1
+this is commit-2
+this is commit-3

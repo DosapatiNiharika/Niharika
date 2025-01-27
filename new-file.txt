@@ -2,4 +2,5 @@ it is from windows
 it is from linux
 this is from feature-1
 this is from feature-2
-this is from from f-1
+this is from new f-1
+>>>>>>> f-2
